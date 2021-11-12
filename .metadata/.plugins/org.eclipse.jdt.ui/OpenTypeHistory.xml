@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-    <typeInfo handle="=DB_Sql/src&lt;test4.mvc.service{Service.java[Service" modifiers="513" timestamp="1635744024068"/>
-    <typeInfo handle="=DB_Sql/src&lt;test4.mvc.dao{Dao.java[Dao" modifiers="513" timestamp="1635812841759"/>
-    <typeInfo handle="=Proj_MMS2/src&lt;mmms.member.action{Action.java[Action" modifiers="513" timestamp="1636677347820"/>
+    <typeInfo handle="=DB_Sql/src&lt;test4.mvc.service{Service.java[Service" modifiers="513" timestamp="1636684981935"/>
+    <typeInfo handle="=DB_Sql/src&lt;test4.mvc.dao{Dao.java[Dao" modifiers="513" timestamp="1636684981930"/>
+    <typeInfo handle="=Proj_MMS2/src&lt;mmms.member.action{Action.java[Action" modifiers="513" timestamp="1636684981967"/>
 </typeInfoHistroy>
